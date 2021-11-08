@@ -142,9 +142,9 @@ print('****************************************')
 
 class Cinema:
     def __init__(self, name, ):
-
+        pass
 
 
 class Starbucks:
-
+ pass
 
