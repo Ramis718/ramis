@@ -140,11 +140,5 @@ print(fic_1.cool())
 print(fic_1.like_d())
 print('****************************************')
 
-class Cinema:
-    def __init__(self, name, ):
-        print("hello")
 
-
-class Starbucks:
- pass
 
