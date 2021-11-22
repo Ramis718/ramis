@@ -53,7 +53,7 @@ class Light:
         self.number = 3443
 
     def palindrome_str(self):
-     if self.number <= 0:
+     if self.number < 0:
             return False
      n = 1
      for i in range(len(str(self.number))):
